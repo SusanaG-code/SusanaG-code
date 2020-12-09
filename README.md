@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Susana! I’m a Front-End developer who believes that FE is not just the pretty face of web development, but a meaningful way to make people understand and care about the information.
 
